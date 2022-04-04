@@ -16,6 +16,6 @@ How it works:
     5. when executing for long time your os is sill running fine but this will lag a lot and sometimes it freezes it depending on your device
 
 Is this crash your os:
-    Depending on your device.
-    if your device is low end. There is a chance you device will restart because your os crashed
-    if your device is high end. Then it will not crash your os 
+Depending on your device.
+if your device is low end. There is a chance you device will restart because your os crashed
+if your device is high end. Then it will not crash your os 
