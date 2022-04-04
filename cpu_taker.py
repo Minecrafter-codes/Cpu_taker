@@ -14,7 +14,7 @@ from threading import Thread #uses Thread to do the trick
 # This ting is so loud. Pleas lower the volume first before executing it
 
 
-#########################
+########################
 
 
 mixer.init()
