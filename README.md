@@ -17,5 +17,19 @@ How it works:
 
 Is this crash your os:
 Depending on your device.
+
 if your device is low end. There is a chance you device will restart because your os crashed
+
 if your device is high end. Then it will not crash your os 
+
+
+
+So now just download python and execute this script.
+
+
+
+Features:
+    1. Easy
+    2. Hack it
+    3. Do what ever you want
+    4. No license
