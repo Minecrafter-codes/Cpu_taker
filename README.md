@@ -5,7 +5,12 @@
 
 
 This requires Python and Pygame 
-Running this file will take up lot of cpu but your os will lagging depending on your device
+
+Running this file will take up lot of cpu but your os will lag depending on your device
+
+
+
+download and execute this program at your friends computer and see what is thier reactions
 
 How it works:
 
